@@ -10,7 +10,10 @@ h2, h3 {
   font-weight: lighter;
 }
 body {
-  margin: 2em;
+  margin: auto;
+  padding: 40px;
+  max-width: 1340px;
+  overflow-y: scroll;
 }
 body, input[type="text"], button {
   color: #333;
